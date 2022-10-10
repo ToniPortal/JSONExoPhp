@@ -24,7 +24,7 @@ foreach ($data->clients as $data) {
 echo "</table>";
 ?>
 
-<form action="/afficherCommandes.php">
+<form action="afficherCommandes.php">
 
     <input type="text" name="id"> </input>
     <input type="submit" value="Envoyer"></input>

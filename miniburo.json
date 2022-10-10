@@ -1,0 +1,822 @@
+{
+	"articles": [
+		{
+			"art_num": "A01",
+			"art_nom": "GRANDE AGRAFEUSE",
+			"art_poids": "50.00",
+			"art_coul": "ROUGE",
+			"art_stock": "17",
+			"art_prix_achats": "20.000",
+			"art_prix_vente": "29.000",
+			"frs_num": "F04",
+			"mag_num": "M01"
+		},
+		{
+			"art_num": "A02",
+			"art_nom": "CALCULATRICE",
+			"art_poids": "50.00",
+			"art_coul": "NOIR",
+			"art_stock": "5",
+			"art_prix_achats": "200.000",
+			"art_prix_vente": "235.000",
+			"frs_num": "F01",
+			"mag_num": "M01"
+		},
+		{
+			"art_num": "A03",
+			"art_nom": "CACHET-DATEUR",
+			"art_poids": "50.00",
+			"art_coul": "BLANC",
+			"art_stock": "3",
+			"art_prix_achats": "21.000",
+			"art_prix_vente": "30.000",
+			"frs_num": "F04",
+			"mag_num": "M01"
+		},
+		{
+			"art_num": "A04",
+			"art_nom": "LAMPE",
+			"art_poids": "100.00",
+			"art_coul": "ROUGE",
+			"art_stock": "3",
+			"art_prix_achats": "15.000",
+			"art_prix_vente": "149.000",
+			"frs_num": "F05",
+			"mag_num": "M02"
+		},
+		{
+			"art_num": "A05",
+			"art_nom": "LAMPE",
+			"art_poids": "100.00",
+			"art_coul": "BLANC",
+			"art_stock": "3",
+			"art_prix_achats": "105.000",
+			"art_prix_vente": "149.000",
+			"frs_num": "F05",
+			"mag_num": "M02"
+		},
+		{
+			"art_num": "A06",
+			"art_nom": "LAMPE",
+			"art_poids": "100.00",
+			"art_coul": "BLEU",
+			"art_stock": "3",
+			"art_prix_achats": "105.000",
+			"art_prix_vente": "149.000",
+			"frs_num": "F05",
+			"mag_num": "M03"
+		},
+		{
+			"art_num": "A07",
+			"art_nom": "LAMPE",
+			"art_poids": "100.00",
+			"art_coul": "VERT",
+			"art_stock": "3",
+			"art_prix_achats": "105.000",
+			"art_prix_vente": "149.000",
+			"frs_num": "F05",
+			"mag_num": "M03"
+		},
+		{
+			"art_num": "A08",
+			"art_nom": "PESE-LETTRE 1-500",
+			"art_poids": "500.00",
+			"art_coul": null,
+			"art_stock": "2",
+			"art_prix_achats": "120.000",
+			"art_prix_vente": "200.000",
+			"frs_num": "F03",
+			"mag_num": "M05"
+		},
+		{
+			"art_num": "A09",
+			"art_nom": "PESE-LETTRE 1-1000",
+			"art_poids": "750.00",
+			"art_coul": null,
+			"art_stock": "2",
+			"art_prix_achats": "150.000",
+			"art_prix_vente": "250.000",
+			"frs_num": "F03",
+			"mag_num": "M05"
+		},
+		{
+			"art_num": "A10",
+			"art_nom": "CRAYON",
+			"art_poids": "20.00",
+			"art_coul": "ROUGE",
+			"art_stock": "210",
+			"art_prix_achats": "1.000",
+			"art_prix_vente": "2.000",
+			"frs_num": "F02",
+			"mag_num": "M11"
+		},
+		{
+			"art_num": "A11",
+			"art_nom": "CRAYONS",
+			"art_poids": "20.00",
+			"art_coul": "BLEU",
+			"art_stock": "190",
+			"art_prix_achats": "1.000",
+			"art_prix_vente": "2.000",
+			"frs_num": "F02",
+			"mag_num": "M11"
+		},
+		{
+			"art_num": "A12",
+			"art_nom": "CRAYON LUXE",
+			"art_poids": "20.00",
+			"art_coul": "ROUGE",
+			"art_stock": "95",
+			"art_prix_achats": "3.000",
+			"art_prix_vente": "5.000",
+			"frs_num": "F02",
+			"mag_num": "M10"
+		},
+		{
+			"art_num": "A13",
+			"art_nom": "CRAYON LUXE",
+			"art_poids": "20.00",
+			"art_coul": "VERT",
+			"art_stock": "90",
+			"art_prix_achats": "3.000",
+			"art_prix_vente": "5.000",
+			"frs_num": "F02",
+			"mag_num": "M10"
+		},
+		{
+			"art_num": "A14",
+			"art_nom": "CRAYON LUXE",
+			"art_poids": "20.00",
+			"art_coul": "BLEU",
+			"art_stock": "80",
+			"art_prix_achats": "3.000",
+			"art_prix_vente": "5.000",
+			"frs_num": "F02",
+			"mag_num": "M08"
+		},
+		{
+			"art_num": "A15",
+			"art_nom": "CRAYON LUXE",
+			"art_poids": "20.00",
+			"art_coul": "NOIR",
+			"art_stock": "100",
+			"art_prix_achats": "3.000",
+			"art_prix_vente": "5.000",
+			"frs_num": "F02",
+			"mag_num": "M09"
+		},
+		{
+			"art_num": "A16",
+			"art_nom": "Bureau",
+			"art_poids": null,
+			"art_coul": null,
+			"art_stock": "3",
+			"art_prix_achats": null,
+			"art_prix_vente": null,
+			"frs_num": null,
+			"mag_num": "M04"
+		}
+	],
+	"clients": [
+		{
+			"cli_num": "C01",
+			"cli_log": "DEFREREM",
+			"cli_mdp": "132bfbedb1681a286706f2d4c1c8d48c51692976022f7a9bbb480f09352a7e60",
+			"cli_nom": "DEFRERE",
+			"cli_pnom": "Marc",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "3 rue des gentilhommes",
+			"cli_adr2": null,
+			"cli_cpostal": "75005",
+			"cli_ville": "PARIS",
+			"cli_ca": "806.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C02",
+			"cli_log": "DECERFJ",
+			"cli_mdp": "371e0b6ba48a5ff47606ba6c5d3b7432abf8b058f094287e93a70ba33015d665",
+			"cli_nom": "DECERF",
+			"cli_pnom": "Jean",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "45 rue des princes",
+			"cli_adr2": null,
+			"cli_cpostal": "75006",
+			"cli_ville": "PARIS",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C03",
+			"cli_log": "DEFAWEL",
+			"cli_mdp": "0dfab5acbae0000ecfc55bf78f6be90842878115c5802d14dd7312bebc9e627a",
+			"cli_nom": "DEFAWE",
+			"cli_pnom": "Lewis",
+			"cli_pays": "BELGIQUE",
+			"cli_adr1": "3 rue des gauffres",
+			"cli_adr2": null,
+			"cli_cpostal": "4000",
+			"cli_ville": "LIEGE",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C04",
+			"cli_log": "NOSSENTS",
+			"cli_mdp": "34a44366294a5bf0e0fe5fb5137ccb36063e93aafb0ac25437ced4ee9937fe0d",
+			"cli_nom": "NOSSENT",
+			"cli_pnom": "Serge",
+			"cli_pays": "BELGIQUE",
+			"cli_adr1": "4 ave de Li",
+			"cli_adr2": null,
+			"cli_cpostal": "1000",
+			"cli_ville": "BRUXELLES",
+			"cli_ca": "149.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C05",
+			"cli_log": "JACOBM",
+			"cli_mdp": "12754373b28abdbee8c79cc020264cdb3c756fc07e3d7a2d9aef6d8e8c53ff53",
+			"cli_nom": "JACOB",
+			"cli_pnom": "Marthe",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "10 rue Sylvabelle",
+			"cli_adr2": null,
+			"cli_cpostal": "13006",
+			"cli_ville": "MARSEILLE",
+			"cli_ca": "31.000",
+			"typ_cli_code": "ADM"
+		},
+		{
+			"cli_num": "C06",
+			"cli_log": "JAMARP",
+			"cli_mdp": "e18b75a07d89860b85c14e29a2d8227702e1aaba3875a812f7d77e071db649b7",
+			"cli_nom": "JAMAR",
+			"cli_pnom": "Pierre",
+			"cli_pays": "BELGIQUE",
+			"cli_adr1": "5 rue des cr",
+			"cli_adr2": null,
+			"cli_cpostal": "4000",
+			"cli_ville": "LIEGE",
+			"cli_ca": "21.000",
+			"typ_cli_code": "ADM"
+		},
+		{
+			"cli_num": "C07",
+			"cli_log": "DECKERSW",
+			"cli_mdp": "ab2c8aca25fce78a71431b273cf5845abe356841450fa5294c66d6a3b4c4d902",
+			"cli_nom": "DECKERS",
+			"cli_pnom": "William",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "Parc des roses",
+			"cli_adr2": "4 rue des fleurs",
+			"cli_cpostal": "69010",
+			"cli_ville": "LYON",
+			"cli_ca": "140.000",
+			"typ_cli_code": "GCP"
+		},
+		{
+			"cli_num": "C08",
+			"cli_log": "DECLERCQL",
+			"cli_mdp": "acade632f70d10cfda201f257549581b9aa4ce6cc8336e5b4fe46b1e00cb8976",
+			"cli_nom": "DECLERCQ",
+			"cli_pnom": "Lucien",
+			"cli_pays": "BELGIQUE",
+			"cli_adr1": "45 ave de France",
+			"cli_adr2": null,
+			"cli_cpostal": "1000",
+			"cli_ville": "BRUXELLES",
+			"cli_ca": "349.000",
+			"typ_cli_code": "GCP"
+		},
+		{
+			"cli_num": "C09",
+			"cli_log": "DEFYZM",
+			"cli_mdp": "09947c6e5a088a23a3fb8cf96ea1ca7a3adf9a03a9c4893803d558bc12d0d5c5",
+			"cli_nom": "DEFYZ",
+			"cli_pnom": "Maurice",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "45 ave de Paris",
+			"cli_adr2": null,
+			"cli_cpostal": "33000",
+			"cli_ville": "BORDEAUX",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C10",
+			"cli_log": "DEFOOZF",
+			"cli_mdp": "908d72900e2475921b580e971e603ef224f1995cdf47e3022d12ee88ae3e6e8a",
+			"cli_nom": "DEFOOZ",
+			"cli_pnom": "Francis",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "23 ave de Cambrai",
+			"cli_adr2": null,
+			"cli_cpostal": "59000",
+			"cli_ville": "LILLE",
+			"cli_ca": "60.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C11",
+			"cli_log": "RAMJOIEV",
+			"cli_mdp": "22b5894e02a73bb5dee8ae7db1fc6f2502052c6da5c20d77612682022bd4bdae",
+			"cli_nom": "RAMJOIE",
+			"cli_pnom": "Victor",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "4 place des Petits Lus",
+			"cli_adr2": null,
+			"cli_cpostal": "44000",
+			"cli_ville": "NANTES",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PAR"
+		},
+		{
+			"cli_num": "C12",
+			"cli_log": "RENARDYJ",
+			"cli_mdp": "fa70213c8aaf9d8fdd6d9377a388260efb452ec9f6afadb591d7ca6782cb9a57",
+			"cli_nom": "RENARDY",
+			"cli_pnom": "Jean",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "Quai du Port",
+			"cli_adr2": "3 place de la Mairie",
+			"cli_cpostal": "13010",
+			"cli_ville": "MARSEILLE",
+			"cli_ca": "275.000",
+			"typ_cli_code": "GCP"
+		},
+		{
+			"cli_num": "C13",
+			"cli_log": "MANTEAUY",
+			"cli_mdp": "6645ca87da6316d5bb2b8e48f6d382c9ffff5a74966c81debc183dc6bb84130d",
+			"cli_nom": "MANTEAU",
+			"cli_pnom": "Yvan",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "56 rue de l'Elys",
+			"cli_adr2": null,
+			"cli_cpostal": "75010",
+			"cli_ville": "PARIS",
+			"cli_ca": "320.000",
+			"typ_cli_code": "GCP"
+		},
+		{
+			"cli_num": "C14",
+			"cli_log": "JONASH",
+			"cli_mdp": "fafc221218d3b700c520f88d2d25775cd5135fa3964607b547671c197e990465",
+			"cli_nom": "JONAS",
+			"cli_pnom": "Henri",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "Quartier Ouest",
+			"cli_adr2": "4 rue de l'Est",
+			"cli_cpostal": "75020",
+			"cli_ville": "PARIS",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PME"
+		},
+		{
+			"cli_num": "C16",
+			"cli_log": "DEFEEZA",
+			"cli_mdp": "e1d53e4f418bb7139ba12d5f81b61b318f8a4e52c52a514b1f2eaaca6c83f199",
+			"cli_nom": "DEFEEZ",
+			"cli_pnom": "Andr",
+			"cli_pays": "FRANCE",
+			"cli_adr1": "7 quartier de Vaise",
+			"cli_adr2": null,
+			"cli_cpostal": "69008",
+			"cli_ville": "LYON",
+			"cli_ca": "0.000",
+			"typ_cli_code": "PAR"
+		}
+	],
+	"commandes": [
+		{
+			"cde_num": "2012-00001",
+			"cde_date": "2012-04-15",
+			"cde_reglee": "O",
+			"cli_num": "C07"
+		},
+		{
+			"cde_num": "2012-00002",
+			"cde_date": "2012-04-15",
+			"cde_reglee": "O",
+			"cli_num": "C06"
+		},
+		{
+			"cde_num": "2012-00003",
+			"cde_date": "2012-04-15",
+			"cde_reglee": "O",
+			"cli_num": "C13"
+		},
+		{
+			"cde_num": "2012-00004",
+			"cde_date": "2012-04-15",
+			"cde_reglee": "O",
+			"cli_num": "C01"
+		},
+		{
+			"cde_num": "2012-00005",
+			"cde_date": "2012-04-15",
+			"cde_reglee": "O",
+			"cli_num": "C08"
+		},
+		{
+			"cde_num": "2012-00006",
+			"cde_date": "2012-04-16",
+			"cde_reglee": "O",
+			"cli_num": "C05"
+		},
+		{
+			"cde_num": "2012-00007",
+			"cde_date": "2012-04-16",
+			"cde_reglee": "O",
+			"cli_num": "C04"
+		},
+		{
+			"cde_num": "2012-00008",
+			"cde_date": "2012-04-17",
+			"cde_reglee": "N",
+			"cli_num": "C03"
+		},
+		{
+			"cde_num": "2012-00009",
+			"cde_date": "2012-04-17",
+			"cde_reglee": "N",
+			"cli_num": "C10"
+		},
+		{
+			"cde_num": "2012-00010",
+			"cde_date": "2012-04-18",
+			"cde_reglee": "O",
+			"cli_num": "C01"
+		},
+		{
+			"cde_num": "2012-00011",
+			"cde_date": "2012-04-18",
+			"cde_reglee": "O",
+			"cli_num": "C12"
+		},
+		{
+			"cde_num": "2012-00012",
+			"cde_date": "2012-04-19",
+			"cde_reglee": "N",
+			"cli_num": "C01"
+		}
+	],
+	"fournisseurs": [
+		{
+			"frs_num": "F01",
+			"frs_nom": "CATIO ELECTRONIC"
+		},
+		{
+			"frs_num": "F02",
+			"frs_nom": "LES STYLOS REUNIS"
+		},
+		{
+			"frs_num": "F03",
+			"frs_nom": "MECANIQUE DE PRECISION"
+		},
+		{
+			"frs_num": "F04",
+			"frs_nom": "SARL ROULAND"
+		},
+		{
+			"frs_num": "F05",
+			"frs_nom": "ELECTROLAMPES"
+		}
+	],
+	"lignesCommandes": [
+		{
+			"lcde_Id": "1",
+			"cde_num": "2012-00001",
+			"art_num": "A04",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "140.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "2",
+			"cde_num": "2012-00002",
+			"art_num": "A10",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "2.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "3",
+			"cde_num": "2012-00002",
+			"art_num": "A11",
+			"lcde_qte": "2",
+			"lcde_liv": "2",
+			"lcde_pu": "2.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "4",
+			"cde_num": "2012-00002",
+			"art_num": "A14",
+			"lcde_qte": "3",
+			"lcde_liv": "3",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-01-17"
+		},
+		{
+			"lcde_Id": "5",
+			"cde_num": "2012-00003",
+			"art_num": "A02",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "230.000",
+			"lcde_date_liv": "2012-01-17"
+		},
+		{
+			"lcde_Id": "6",
+			"cde_num": "2012-00003",
+			"art_num": "A03",
+			"lcde_qte": "2",
+			"lcde_liv": "0",
+			"lcde_pu": "30.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "7",
+			"cde_num": "2012-00003",
+			"art_num": "A13",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "8",
+			"cde_num": "2012-00003",
+			"art_num": "A14",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "9",
+			"cde_num": "2012-00003",
+			"art_num": "A15",
+			"lcde_qte": "5",
+			"lcde_liv": "0",
+			"lcde_pu": "4.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "10",
+			"cde_num": "2012-00004",
+			"art_num": "A02",
+			"lcde_qte": "2",
+			"lcde_liv": "0",
+			"lcde_pu": "235.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "11",
+			"cde_num": "2012-00004",
+			"art_num": "A05",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "149.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "12",
+			"cde_num": "2012-00004",
+			"art_num": "A12",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "13",
+			"cde_num": "2012-00004",
+			"art_num": "A13",
+			"lcde_qte": "10",
+			"lcde_liv": "0",
+			"lcde_pu": "4.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "14",
+			"cde_num": "2012-00004",
+			"art_num": "A15",
+			"lcde_qte": "8",
+			"lcde_liv": "0",
+			"lcde_pu": "4.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "15",
+			"cde_num": "2012-00005",
+			"art_num": "A06",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "149.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "16",
+			"cde_num": "2012-00005",
+			"art_num": "A08",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "200.000",
+			"lcde_date_liv": null
+		},
+		{
+			"lcde_Id": "17",
+			"cde_num": "2012-00006",
+			"art_num": "A10",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "2.000",
+			"lcde_date_liv": "2012-03-09"
+		},
+		{
+			"lcde_Id": "18",
+			"cde_num": "2012-00007",
+			"art_num": "A07",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "149.000",
+			"lcde_date_liv": "2012-03-12"
+		},
+		{
+			"lcde_Id": "19",
+			"cde_num": "2012-00008",
+			"art_num": "A01",
+			"lcde_qte": "1",
+			"lcde_liv": "1",
+			"lcde_pu": "29.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "20",
+			"cde_num": "2012-00009",
+			"art_num": "A12",
+			"lcde_qte": "3",
+			"lcde_liv": "1",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "21",
+			"cde_num": "2012-00009",
+			"art_num": "A13",
+			"lcde_qte": "3",
+			"lcde_liv": "1",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "22",
+			"cde_num": "2012-00009",
+			"art_num": "A14",
+			"lcde_qte": "3",
+			"lcde_liv": "1",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "23",
+			"cde_num": "2012-00009",
+			"art_num": "A15",
+			"lcde_qte": "3",
+			"lcde_liv": "1",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "24",
+			"cde_num": "2012-00010",
+			"art_num": "A12",
+			"lcde_qte": "8",
+			"lcde_liv": "8",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "25",
+			"cde_num": "2012-00010",
+			"art_num": "A14",
+			"lcde_qte": "8",
+			"lcde_liv": "8",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-10"
+		},
+		{
+			"lcde_Id": "26",
+			"cde_num": "2012-00011",
+			"art_num": "A09",
+			"lcde_qte": "100",
+			"lcde_liv": "0",
+			"lcde_pu": "250.000",
+			"lcde_date_liv": "2012-03-21"
+		},
+		{
+			"lcde_Id": "27",
+			"cde_num": "2012-00011",
+			"art_num": "A15",
+			"lcde_qte": "5",
+			"lcde_liv": "5",
+			"lcde_pu": "5.000",
+			"lcde_date_liv": "2012-03-11"
+		},
+		{
+			"lcde_Id": "28",
+			"cde_num": "2012-00012",
+			"art_num": "A03",
+			"lcde_qte": "1",
+			"lcde_liv": "0",
+			"lcde_pu": "30.000",
+			"lcde_date_liv": "2012-03-17"
+		}
+	],
+	"magasin": [
+		{
+			"mag_num": "M01",
+			"mag_loc": "PARIS 5e",
+			"mag_gerant": "BERTON Louis"
+		},
+		{
+			"mag_num": "M02",
+			"mag_loc": "PARIS 10e",
+			"mag_gerant": "JANNEAU Luc"
+		},
+		{
+			"mag_num": "M03",
+			"mag_loc": "LYON",
+			"mag_gerant": "MOUILLARD Marcel"
+		},
+		{
+			"mag_num": "M04",
+			"mag_loc": "MARSEILLE",
+			"mag_gerant": "CAMUS Marius"
+		},
+		{
+			"mag_num": "M05",
+			"mag_loc": "MONTPELLIER",
+			"mag_gerant": "BAIJOT Marc"
+		},
+		{
+			"mag_num": "M06",
+			"mag_loc": "BORDEAUX",
+			"mag_gerant": "DETOENNE Nicole"
+		},
+		{
+			"mag_num": "M07",
+			"mag_loc": "NANTES",
+			"mag_gerant": "DUMONT Henri"
+		},
+		{
+			"mag_num": "M08",
+			"mag_loc": "TOURS",
+			"mag_gerant": "DEMARTEAU Ren"
+		},
+		{
+			"mag_num": "M09",
+			"mag_loc": "ROUEN",
+			"mag_gerant": "NOSSENT Daniel"
+		},
+		{
+			"mag_num": "M10",
+			"mag_loc": "LILLE",
+			"mag_gerant": "NIZET Jean-Luc"
+		},
+		{
+			"mag_num": "M11",
+			"mag_loc": "BRUXELLES",
+			"mag_gerant": "VANDERSMISSEN Fernand"
+		},
+		{
+			"mag_num": "M12",
+			"mag_loc": "LIEGE",
+			"mag_gerant": "HANNEAU Vincent"
+		}
+	],
+	"typesClients": [
+		{
+			"typ_cli_code": "ADM",
+			"typ_cli_libel": "Administration"
+		},
+		{
+			"typ_cli_code": "GCP",
+			"typ_cli_libel": "Grand compte"
+		},
+		{
+			"typ_cli_code": "PAR",
+			"typ_cli_libel": "Particulier"
+		},
+		{
+			"typ_cli_code": "PME",
+			"typ_cli_libel": "PME"
+		}
+	]
+}

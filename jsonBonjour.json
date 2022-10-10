@@ -1,0 +1,24 @@
+{
+	"bonjour" : "Hello there !",
+	"salutations" : [
+		"Bonjour",
+		"Tout",
+		"Le",
+		"Monde",
+		"!"
+	],
+	"liens" :[
+		{
+			"description" : "Wiki du JSON",
+			"lien" : "https://fr.wikipedia.org/wiki/JavaScript_Object_Notation"
+		},
+		{
+			"description" : "Documentation PHP du json_encode",
+			"lien" : "https://www.php.net/manual/en/function.json-encode.php"
+		},
+		{
+			"description" : "Documentation PHP du json_decode",
+			"lien" : "https://www.php.net/manual/en/function.json-decode.php"
+		}
+	]
+}

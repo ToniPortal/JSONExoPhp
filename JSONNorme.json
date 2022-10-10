@@ -1,0 +1,35 @@
+{
+    "ref": "Code ISO",
+    "libelle": "Libelle de la norme",
+    "date": "Date de la normes",
+    "auteurs": [
+      "Auteur1",
+      "Auteur2"
+    ],
+    "raisonNorme": "Les raisons de la norme",
+    "acteursConcernes": [
+      "Acteur1",
+      "Acteur2"
+    ],
+    "historique": [
+      {
+        "annee" : 2000,
+        "libelle" : "Le libelle de la modification"
+      },
+      {
+        "annee" : 2001,
+        "libelle" : "Le libelle de la modification2"
+      }
+    ],
+    "presentation" : "La presentation de la norme",
+    "acces" : {
+      "motscles" : "mes mots clés",
+      "liens" : [
+        "lien1",
+        "lien2",
+        "lien3",
+        "lien4",
+        "lien5"
+      ]
+    }
+}
